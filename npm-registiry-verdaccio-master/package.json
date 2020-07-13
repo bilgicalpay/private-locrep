@@ -77,7 +77,7 @@
     "prettier": "1.17.0",
     "puppeteer": "1.8.0",
     "rimraf": "2.6.3",
-    "standard-version": "5.0.2",
+    "standard-version": "8.0.1",
     "supertest": "4.0.2",
     "verdaccio-auth-memory": "0.0.4",
     "verdaccio-memory": "2.0.0"
